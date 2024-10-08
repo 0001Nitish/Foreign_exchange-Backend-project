@@ -1,6 +1,6 @@
 # Foreign_exchange-Backend-project
 Setup and Installation Instructions
-Clone the Repository: git clone https://github.com/0001Nitish/DailyExpenceSharingApplication cd
+Clone the Repository: git clone [https://github.com/0001Nitish/DailyExpenceSharingApplication](https://github.com/0001Nitish/Foreign_exchange-Backend-project.git) cd
 
 Install Dependencies: Ensure you have Maven installed. Run the following command to install the necessary dependencies: mvn clean install
 
